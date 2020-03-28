@@ -25,3 +25,7 @@ C001 Hacer Clic en Contenedores
     \   Wait Until Element Is Visible   //*[@id="bigpic"]
     \   CLick Element   xpath=//*[@id="header_logo"]/a/img
     Close Browser
+
+
+C002 Caso De Prueba Nueva
+    Open Homepage
